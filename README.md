@@ -1,5 +1,5 @@
-# PatchVH-Plague-Inc.
-File cần thiết để tải xuống cho Phần mềm cài đặt Việt Hóa (PatchVietHoaInstaller)
+# PatchVH
+Đây là Respository cần thiết để tải xuống và cài đặt patch cho Phần mềm cài đặt Việt Hóa (PatchVietHoaInstaller)
 
 Không dùng cho mục đích thương mại. Mọi chi phí phải trả cho file này hay phần mềm đều là giả.
 
